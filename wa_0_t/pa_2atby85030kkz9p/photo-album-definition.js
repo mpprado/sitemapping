@@ -28,22 +28,22 @@
 "fullscreen_list_config":{
 "image_size":110}
 ,"images":[{"fn":"wordcloud.png",
-"mod_th":"1vazv4kxx11plh",
-"mod":"1vazs8kxx11plh",
+"mod_th":"2ostls2506ov75",
+"mod":"2ostiw2506ov75",
 "size":{"w":746,"h":428},
 "comment":"Word Cloud generated from IEEE selected papers.",
 "tooltip":"",
 "lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
 ,{"fn":"wordcloudACM.png",
-"mod_th":"1vb05ckxx11pli",
-"mod":"1vb02gkxx11plh",
+"mod_th":"2ostw02506ov75",
+"mod":"2ostt42506ov75",
 "size":{"w":812,"h":446},
 "comment":"Word Cloud generated from ACM selected papers",
 "tooltip":"",
 "lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
 ,{"fn":"wa_import5.jpg",
-"mod_th":"1vb0fkkxx11pli",
-"mod":"1vb0cokxx11pli",
+"mod_th":"2osu682506ov75",
+"mod":"2osu3c2506ov75",
 "size":{"w":737,"h":426},
 "comment":"Word Cloud generated from Science Direct selected papers",
 "tooltip":"",
